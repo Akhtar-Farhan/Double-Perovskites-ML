@@ -15,8 +15,7 @@ The data was retrieved from the Materials Project database using the mp-api and 
 - `Double_Perovskites.ipynb`  
   → Google Colab notebook for data extraction and preprocessing  
 
-- `requirements.txt`  
-  → Python dependencies required to run the code  
+  → Python dependencies required to run the code are all included.
 
 ---
 
