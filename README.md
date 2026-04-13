@@ -55,8 +55,7 @@ The dataset includes the following features:
 
 ## 🔬 Data Source
 
-Data retrieved from the Materials Project database using the mp-api.
-
+Data retrieved from the Materials Project database using the mp-api. https://next-gen.materialsproject.org/
 Due to continuous updates in the database, the dataset provided in this repository corresponds exactly to the data used in this study to ensure reproducibility.
 
 ---
@@ -64,7 +63,7 @@ Due to continuous updates in the database, the dataset provided in this reposito
 ## ▶️ How to Run
 
 1. Install dependencies:
-2. Open the notebook:
+2. Open the notebook: Double_Perovskite.ipynb
 3. Add your Materials Project API key:
 ```python
 MPRester("YOUR_API_KEY")
