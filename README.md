@@ -63,7 +63,7 @@ Due to continuous updates in the database, the dataset provided in this reposito
 ## ▶️ How to Run
 
 1. Install dependencies:
-2. Open the notebook: Double_Perovskite.ipynb
+2. Open the notebook: Double_Perovskite.ipynb in google colab or excess this notebook https://colab.research.google.com/drive/1z-fSp0QHhae9n7L9ho1X2_X96UHA8Rm7?usp=sharing
 3. Add your Materials Project API key:
 ```python
 MPRester("YOUR_API_KEY")
